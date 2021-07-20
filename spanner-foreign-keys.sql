@@ -28,7 +28,6 @@ VALUES ('1cafb6a4-396c-4da1-8180-83531b6a41e3', 'Alice');
 INSERT INTO users (user_id, user_name)
 VALUES ('0d2b2319-9c0b-4ecb-8953-98687f6a99ce', 'Bob');
 
-
 INSERT INTO accounts (user_id, account_id, account_type)
 VALUES ('1cafb6a4-396c-4da1-8180-83531b6a41e3', '83428a85-5c8f-4398-8019-918d6e1d3a93', 'Checking');
 
